@@ -15,10 +15,22 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+“You are sad,” the Knight said in an anxious tone: “Let me sing you a song to comfort you.”
 
+“Is it very long?” Alice asked, for she had heard a good deal of poetry that day.
+
+“It's long,” said the Knight, “but it's very, very beautiful. Everybody that hears me sing it - either it brings the tears to their eyes, or else -”
+
+“Or else what?” said Alice, for the Knight had made a sudden pause.
+
+“Or else it doesn't, you know. The name of the song is called ‘Haddocks' Eyes.’
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
+ONCE when the snow of the year was beginning to fall,	  
+We stopped by a mountain pasture to say, “Whose colt?”  	
+A little Morgan had one forefoot on the wall,	  
+The other curled at his breast. He dipped his head	  
+And snorted to us. And then we saw him bolt.	   
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
